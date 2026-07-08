@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=700&lines=Junior+Python+Backend+Developer;Java+Backend+Developer;FastAPI+%7C+Spring+Boot+%7C+PostgreSQL;Open+to+backend+opportunities)](https://git.io/typing-svg)
+
 # Hi, I'm Anna 👋
 
 ### Junior Python Backend Developer • Java Backend Developer

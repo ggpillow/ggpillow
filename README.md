@@ -65,19 +65,44 @@ Software Engineering student at **HSE University (2024–2028)**
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=myCourseBack&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/myCourseBack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=myDnD_bot&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/myDnD_bot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=adventure_app&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/adventure_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=React_FunnyFilm&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/React_FunnyFilm)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=AdventurerSite_React&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/AdventurerSite_React)
-
-</div>
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ggpillow/myCourseBack">myCourseBack</a></h3>
+      <p>Backend application focused on server-side logic and REST API development.</p>
+      <p><b>Stack:</b> Java, Spring Boot, PostgreSQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ggpillow/myDnD_bot">myDnD_bot</a></h3>
+      <p>Telegram bot project built for DnD-related functionality and interaction.</p>
+      <p><b>Stack:</b> Telegram Bot API</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ggpillow/adventure_app">adventure_app</a></h3>
+      <p>Android application for travel planning and adventure organization.</p>
+      <p><b>Stack:</b> Java, Android SDK</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ggpillow/React_FunnyFilm">React_FunnyFilm</a></h3>
+      <p>Frontend project built with React and JavaScript.</p>
+      <p><b>Stack:</b> React, JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ggpillow/AdventurerSite_React">AdventurerSite_React</a></h3>
+      <p>React-based website project focused on travel and adventure presentation.</p>
+      <p><b>Stack:</b> React, JavaScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Currently Building</h3>
+      <p>Expanding my portfolio with new backend projects in Python and Java.</p>
+      <p><b>Focus:</b> APIs, backend systems, and team development</p>
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Team Projects
 

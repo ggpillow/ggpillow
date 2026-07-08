@@ -2,18 +2,19 @@
 
 # Hi, I'm Anna 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=8B5CF6&center=true&vCenter=true&width=800&lines=Junior+Python+Backend+Developer;Java+Backend+Developer;FastAPI+%7C+Spring+Boot+%7C+PostgreSQL;APIs+%7C+Bots+%7C+Team+Projects;Open+to+backend+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=8B5CF6&center=true&vCenter=true&width=850&lines=Junior+Python+Backend+Developer;Java+Backend+Developer;FastAPI+%7C+Spring+Boot+%7C+PostgreSQL;APIs+%7C+Bots+%7C+Team+Projects;Open+to+backend+opportunities)](https://git.io/typing-svg)
 
 ### Junior Python Backend Developer • Java Backend Developer
 
 I build backend applications with **Python/FastAPI** and **Java/Spring Boot**  
-and enjoy working on **APIs, bots, backend architecture, and team projects**.
+and enjoy working on **APIs, bots, backend systems, and team projects**.
 
 Software Engineering student at **HSE University (2024–2028)**
 
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-8B5CF6?style=for-the-badge)](#-contact)
-[![Backend Developer](https://img.shields.io/badge/Backend-Python%20%7C%20Java-1f6feb?style=for-the-badge)](#-tech-stack)
-[![Location](https://img.shields.io/badge/Location-Russia-2ea44f?style=for-the-badge)](#)
+[![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20Java-1f6feb?style=for-the-badge)](#-tech-stack)
+[![Focus](https://img.shields.io/badge/Focus-APIs%20%26%20Backend%20Systems-2ea44f?style=for-the-badge)](#-about-me)
+[![Student](https://img.shields.io/badge/HSE-Software_Engineering-f78166?style=for-the-badge)](#-education--certificates)
 
 </div>
 
@@ -22,10 +23,10 @@ Software Engineering student at **HSE University (2024–2028)**
 ## ✨ About Me
 
 - 🔹 Primarily focused on **Python backend development**
-- 🔹 Also develop backend applications using **Java and Spring Boot**
-- 🔹 Interested in **API development, backend systems, Telegram bots, and team collaboration**
-- 🔹 Have experience in **team coordination, task management, documentation, and development process organization**
-- 🔹 Currently open to **Junior Backend Developer** opportunities
+- 🔹 Also develop backend applications with **Java and Spring Boot**
+- 🔹 Interested in **API development, backend architecture, Telegram bots, and collaborative product development**
+- 🔹 Have experience in **team coordination, task management, Jira, documentation, and development process organization**
+- 🔹 Currently open to **Junior Python Backend Developer / Junior Java Backend Developer** opportunities
 
 ---
 
@@ -40,7 +41,7 @@ Software Engineering student at **HSE University (2024–2028)**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Technologies
+### Tools & Additional Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -49,52 +50,58 @@ Software Engineering student at **HSE University (2024–2028)**
 
 </div>
 
+<div align="center">
+
 ### Collaboration & Process
-- Team coordination
-- Task management
-- Jira
-- Technical documentation
-- Code review
-- Metrics tracking and reporting
-- Development process organization
+![Jira](https://img.shields.io/badge/Jira-Task_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-Technical-6f42c1?style=for-the-badge)
+![Code Review](https://img.shields.io/badge/Code_Review-Collaboration-8b949e?style=for-the-badge)
+![Team Coordination](https://img.shields.io/badge/Team-Coordination-f78166?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/Metrics-Tracking_&_Reporting-2da44e?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [myCourseBack](https://github.com/ggpillow/myCourseBack)
-Backend project focused on **server-side logic** and **API development**.  
-**Stack:** Java, Spring Boot, PostgreSQL
+<div align="center">
 
-### 🔹 [myDnD_bot](https://github.com/ggpillow/myDnD_bot)
-Telegram bot related to DnD functionality.  
-**Stack:** Telegram Bot API
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=myCourseBack&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/myCourseBack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=myDnD_bot&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/myDnD_bot)
 
-### 🔹 [adventure_app](https://github.com/ggpillow/adventure_app)
-Android app for travel planning and adventure organization.  
-**Stack:** Java, Android SDK
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=adventure_app&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/adventure_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=React_FunnyFilm&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/React_FunnyFilm)
 
-### 🔹 [React_FunnyFilm](https://github.com/ggpillow/React_FunnyFilm)
-Frontend project built with React.  
-**Stack:** React, JavaScript
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggpillow&repo=AdventurerSite_React&theme=tokyonight&hide_border=true)](https://github.com/ggpillow/AdventurerSite_React)
 
-### 🔹 [AdventurerSite_React](https://github.com/ggpillow/AdventurerSite_React)
-React-based website project.  
-**Stack:** React, JavaScript
+</div>
 
 ---
 
 ## 🤝 Team Projects
 
-### 🎲 [DnD Platform](https://github.com/d-d-minor/dnd-app)
-**Role:** Backend Developer, Frontend Contributor, Team Coordinator
-
-Worked on backend development, server setup, database design, schema creation, API implementation, backend/frontend integration, authentication, testing, deployment, documentation, task management, and partial frontend development.
-
-### 🌊 [Omut Pamyati](https://github.com/ravenhaha/hse-coursework)
-**Role:** Backend Developer
-
-Contributed to backend development, API logic, integration, and implementation tasks in a collaborative project.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/d-d-minor/dnd-app">🎲 DnD Platform</a></h3>
+      <p><b>Role:</b> Backend Developer, Frontend Contributor, Team Coordinator</p>
+      <p>
+        Worked on backend development, server setup, database design, schema creation,
+        API implementation, backend/frontend integration, authentication, testing,
+        deployment, documentation, task management, and partial frontend contribution.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ravenhaha/hse-coursework">🌊 Omut Pamyati</a></h3>
+      <p><b>Role:</b> Backend Developer</p>
+      <p>
+        Contributed to backend development, API logic, integration,
+        and implementation tasks in a collaborative project.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,12 +116,16 @@ Contributed to backend development, API logic, integration, and implementation t
 
 ---
 
-## 🎓 Education & Certificates
+<details>
+  <summary><b>🎓 Education & Certificates</b></summary>
+  <br>
 
 - **HSE University** — Software Engineering *(2024–2028, in progress)*
 - **IBM Data Science Professional Certificate** — Coursera
 - **Python for Data Science** — IBM / Coursera
 - **Databases and SQL for Data Science** — IBM / Coursera
+
+</details>
 
 ---
 

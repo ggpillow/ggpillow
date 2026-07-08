@@ -22,11 +22,17 @@ Software Engineering student at **HSE University (2024–2028)**
 
 ## ✨ About Me
 
-- 🔹 Primarily focused on **Python backend development**
-- 🔹 Also develop backend applications with **Java and Spring Boot**
-- 🔹 Interested in **API development, backend architecture, Telegram bots, and collaborative product development**
-- 🔹 Have experience in **team coordination, task management, Jira, documentation, and development process organization**
-- 🔹 Currently open to **Junior Python Backend Developer / Junior Java Backend Developer** opportunities
+I'm a **Junior Backend Developer** focused on building backend applications with  
+**Python/FastAPI** and **Java/Spring Boot**.
+
+I’m interested in:
+- API development
+- backend systems
+- Telegram bots
+- team collaboration
+- development process organization
+
+Currently open to **Junior Backend Developer** opportunities.
 
 ---
 
